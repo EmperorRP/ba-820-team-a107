@@ -18,7 +18,7 @@ Contains the datasets used in the project:
 ---
 
 ### 📁 notebooks/
-Contains individual exploratory data analysis notebooks contributed by each team member:
+Contains individual exploratory data analysis notebooks contributed by each team member based on either **m1** or **m2** which are available in its own directory:
 
 - `Keane_Drug_and_grant_EDA.ipynb`
 - `alex_grant_EDA.ipynb`
@@ -45,3 +45,4 @@ Each notebook focuses on exploratory analysis, pattern discovery, and hypothesis
 - All analyses were performed in Google Colab and committed as Jupyter notebooks with outputs included.
 - This repository supports **Milestone 1 (Project Proposal)** for BA820: Unsupervised and Unstructured Machine Learning.
 - Methods and models are intentionally exploratory and subject to refinement in later project milestones.
+
