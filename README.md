@@ -30,6 +30,9 @@ m1:
 
 m2:
 - `Rahul_EDA_M2.ipynb`
+- `m2_brianpark.ipynb`
+- `Alex medicines EDA M2.ipynb`
+- Keane's in branch `Keane` titled `M2_Project_Deliverable (1).ipynb`
 
 m3:
 - `Master_Notebook.ipynb`
@@ -55,6 +58,7 @@ Each notebook focuses on exploratory analysis, pattern discovery, and hypothesis
 - All analyses were performed in Google Colab and committed as Jupyter notebooks with outputs included.
 - This repository supports **Milestone 1 (Project Proposal)** for BA820: Unsupervised and Unstructured Machine Learning.
 - Methods and models are intentionally exploratory and subject to refinement in later project milestones.
+
 
 
 
